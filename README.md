@@ -1,2 +1,0 @@
-# CreditManagement
-SparksFoundationPhase1
